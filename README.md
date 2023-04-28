@@ -1,4 +1,4 @@
-<h1>Snake Game
+<h1> Snake Game
 
 <h4>This is a Java implementation of the classic Snake game. The game uses the Java Swing framework for the user interface and the game logic is implemented in the GamePanel class.
 
@@ -15,9 +15,9 @@
 <h4>This game was inspired by the classic Snake game and is meant for educational purposes only. If you have any feedback or suggestions, please feel free to contact the author.
 
 <h1>Team Members
-<h4>Aman Kumar
-    Aditya Singh
-    Kanwaljot Singh
+<h4>Aman Kumar<br>
+    Aditya Singh<br>
+    Kanwaljot Singh<br>
 
 <h1>Contributing
 <h4>If you want to contribute to this project, please feel free to fork this repository and submit a pull request. This game lacks interesting background and your any contribution towards making a good looking background is heartly weelcomed.
