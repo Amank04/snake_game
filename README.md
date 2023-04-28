@@ -7,6 +7,8 @@
 
 <h1>How to run
 <h4>To run the game, you need to have Java 8 or higher installed on your machine. Clone this repository and open it in your preferred Java IDE. Then, run the SnakeGame class to start the game.
+<h1>Background sound
+<h4> To put a new background sound, drag your desired music to your project file in your java IDE and paste its path in playsound and other methods related to sound playing in GamePanel class.
 
 <h1>Dependencies
 <h4>This game requires Java 8 or higher to run. It has been tested on Windows, Mac, and Linux.
